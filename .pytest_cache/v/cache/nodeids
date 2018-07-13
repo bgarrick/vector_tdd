@@ -1,3 +1,7 @@
 [
-  "test/test_vector.py::test_make_vector"
+  "test/test_vector.py::test_make_vector",
+  "test/test_vector.py::test_dimension",
+  "test/test_vector.py::test_norm",
+  "test/test_vector.py::test_unit_vector",
+  "test/test_vector.py::test_scale"
 ]
